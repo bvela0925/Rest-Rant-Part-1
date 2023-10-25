@@ -15,6 +15,7 @@ function index (data) {
                 </p>
             </div>
         )
+        
     })
     return (
         <Def>

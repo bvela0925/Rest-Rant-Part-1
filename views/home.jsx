@@ -9,7 +9,7 @@ function home () {
     <div>
       <img src="/images/chia-fruit-drink.jpg" alt="Chia Fruit Shake" />
       <div>
-        Photo by <a href="AUTHOR_LINK">Brenda Godinez</a> on <a href="UNSPLASH_LINK">Unsplash</a>
+        Photo by <a href="https://unsplash.com/@cravethebenefits?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">BRENDA GODINEZ</a> on <a href="UNSPLAhttps://unsplash.com/s/photos/free-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       </div>
     </div>
     <a href="/places">
